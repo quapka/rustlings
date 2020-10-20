@@ -1,3 +1,7 @@
+## The `solutions` branch
+
+This branch is simply a back of my own solutions to rustlings exercises.
+
 ![crab pet](https://i.imgur.com/LbZJgmm.gif)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-65-orange.svg?style=flat-square)](#contributors-)
